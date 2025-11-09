@@ -82,6 +82,6 @@ link_video_youtube.txt	Link direto do vídeo de demonstração.
 
 👥 Integrantes do Grupo
 Nome Completo	RM	Função
-Rafael Terra Teodoro	560955	Desenvolvimento do fluxo e documentação
-Enzo Elia Tarraga	560901	Testes e apresentação do vídeo
-Otoniel Arantes Barbado	560112	Estruturação e apoio técnico
+Rafael Terra Teodoro	560955	
+Enzo Elia Tarraga	560901	
+Otoniel Arantes Barbado	560112	
