@@ -78,7 +78,7 @@ Visualização das leituras no painel de debug.
 Arquivo	Descrição
 fluxos_node_red.json	Contém o fluxo completo exportado do Node-RED.
 README.md	Documentação do projeto (Sprint 2).
-link_video_youtube.txt	Link direto do vídeo de demonstração.
+https://www.youtube.com/watch?v=jcJ-Qrw8uHE	Link direto do vídeo de demonstração.
 
 👥 Integrantes do Grupo
 Nome Completo	RM	Função
